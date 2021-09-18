@@ -1,4 +1,5 @@
-# vueblog
+# Vue Blog
+### Aplikasi ini dibuat menggunakan Vue.Js dan Laravel sebagai API
 
 ## Project setup
 ```
